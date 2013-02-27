@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta chaeset="utf8">
+    <script src="/socket.io/socket.io.js"></script>
+    <script>
+        window.onload = function () {
+            // 소켓을 연결합니다.
+            var socket = io.connect();
+
+            // 변수를 선언합니다.
+            var name = prompt('Please Enter Your Name', 'Name');
+
+            // 데이터를 전송합니다.
+            socket.emit('setname', name);
+
+            // 데이터를 전달 받습니다.
+            socket.on('responsename', function (data) {
+                alert(data);
+            });
+
+            // 문서 객체 이벤트를 연결합니다.
+            document.getElementById('button').onclick = function () {
+                socket.emit('getname');
+            };
+        };
+    </script>
+</head>
+<body>
+    <button id="button">Get Name</button>
+</body>
+</html>

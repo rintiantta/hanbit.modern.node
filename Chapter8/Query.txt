@@ -1,0 +1,22 @@
+CREATE DATABASE Company;
+
+USE Company;
+
+CREATE TABLE products (
+    id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(50) NOT NULL,
+    modelnumber VARCHAR(15) NOT NULL,
+    series VARCHAR(30) NOT NULL
+);
+
+INSERT INTO products (name, modelnumber, series) VALUES
+('Eric Clapton Stratocaster', '0117602806', 'Artist');
+('Jeff Beck Stratocaster', '0119600805', 'Artist'),
+('American Deluxe Stratocaster', '011900', 'American Deluxe'),
+('American Deluxe Tele', '011950', 'American Deluxe'),
+('Jim Adkins JA-90 Telecaster Thinline', '0262350538', 'Artist'),
+('Vintage Hot Rod 57 Strat', '0100132809', 'Vintage Hot Rod'),
+('American Vintage 57 Stratocaster Reissue', '0100102806', 'American Vintage'),
+('American Standard Stratocaster', '0110400700', 'American Standard'),
+('Road Worn Player Stratocaster HSS', '0131610309', 'Road Worn'),
+('Road Worn Player Telecaster', '0131082306', 'Road Worn');

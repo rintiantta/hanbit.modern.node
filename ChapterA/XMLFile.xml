@@ -1,0 +1,1372 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0">
+<channel>
+<title>기상청 육상 주간예보</title>
+<link>http://www.kma.go.kr/weather/forecast/mid-term_01.jsp</link>
+<description>기상청 날씨 웹서비스</description>
+<language>ko</language>
+<generator>기상청</generator>
+<pubDate>2012년 02월 04일 (토)요일 18:00</pubDate>
+ <item>
+<author>기상청</author>
+<category>육상주간예보</category>
+<title>전국 육상 주간예보 - 2012년 02월 04일 (토)요일 18:00 발표</title>
+<link>http://www.kma.go.kr/weather/forecast/mid-term_01.jsp</link>
+<guid>http://www.kma.go.kr/weather/forecast/mid-term_01.jsp</guid>
+<description>
+	<header>
+		<title>전국 육상주간예보</title>
+		<tm>201202041800</tm>
+		<wf><![CDATA[6일 남부지방은 제주도남쪽해상을 지나는 저기압의 영향으로 비가 오겠고, 서울.경기도와 강원도영서지방은 북쪽을 지나는 약한 기압골의 영향으로 오후 한때 눈 또는 비가 조금 오는 곳이 있겠습니다. <br />7~8일은 서해상의 눈 구름대 영향으로 전라남북도와 제주도에, 8일은 충청남도지방까지 눈이 오겠습니다.<br />그 밖의 날은 고기압 가장자리에 들어 가끔 구름많겠습니다.<br /><br />기온은 평년(최저기온: -10~4도, 최고기온: 3~10도)보다 낮겠습니다. <br /><br />강수량은 평년(강수량 : 0~2mm)보다 중부지방은 적겠고, 남부지방은 많겠습니다.]]></wf>
+	</header>
+	<body>
+				
+					
+				
+
+		<location>
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>서울</city>
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2012-02-06</tmEf>
+					<wf>흐리고 눈 또는 비</wf>
+					<tmn>-2</tmn>
+					<tmx>5</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>3</numEf>
+					<tmEf>2012-02-07</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-10</tmn>
+					<tmx>-5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>4</numEf>
+					<tmEf>2012-02-08</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-11</tmn>
+					<tmx>-2</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>5</numEf>
+					<tmEf>2012-02-09</tmEf>
+					<wf>흐림</wf>
+					<tmn>-8</tmn>
+					<tmx>1</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>6</numEf>
+					<tmEf>2012-02-10</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-10</tmn>
+					<tmx>-1</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>7</numEf>
+					<tmEf>2012-02-11</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-7</tmn>
+					<tmx>2</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+		<location>
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>인천</city>
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2012-02-06</tmEf>
+					<wf>흐리고 눈 또는 비</wf>
+					<tmn>-1</tmn>
+					<tmx>5</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>3</numEf>
+					<tmEf>2012-02-07</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-8</tmn>
+					<tmx>-4</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>4</numEf>
+					<tmEf>2012-02-08</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-9</tmn>
+					<tmx>-2</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>5</numEf>
+					<tmEf>2012-02-09</tmEf>
+					<wf>흐림</wf>
+					<tmn>-7</tmn>
+					<tmx>1</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>6</numEf>
+					<tmEf>2012-02-10</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-8</tmn>
+					<tmx>0</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>7</numEf>
+					<tmEf>2012-02-11</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-5</tmn>
+					<tmx>3</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+		<location>
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>수원</city>
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2012-02-06</tmEf>
+					<wf>흐리고 눈 또는 비</wf>
+					<tmn>-3</tmn>
+					<tmx>6</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>3</numEf>
+					<tmEf>2012-02-07</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-11</tmn>
+					<tmx>-5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>4</numEf>
+					<tmEf>2012-02-08</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-13</tmn>
+					<tmx>-2</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>5</numEf>
+					<tmEf>2012-02-09</tmEf>
+					<wf>흐림</wf>
+					<tmn>-9</tmn>
+					<tmx>1</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>6</numEf>
+					<tmEf>2012-02-10</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-11</tmn>
+					<tmx>0</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>7</numEf>
+					<tmEf>2012-02-11</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-8</tmn>
+					<tmx>2</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+		<location>
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>문산</city>
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2012-02-06</tmEf>
+					<wf>흐리고 눈 또는 비</wf>
+					<tmn>-6</tmn>
+					<tmx>5</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>3</numEf>
+					<tmEf>2012-02-07</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-14</tmn>
+					<tmx>-5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>4</numEf>
+					<tmEf>2012-02-08</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-15</tmn>
+					<tmx>-3</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>5</numEf>
+					<tmEf>2012-02-09</tmEf>
+					<wf>흐림</wf>
+					<tmn>-12</tmn>
+					<tmx>1</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>6</numEf>
+					<tmEf>2012-02-10</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-13</tmn>
+					<tmx>-1</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>7</numEf>
+					<tmEf>2012-02-11</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-11</tmn>
+					<tmx>3</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+
+
+		<location>
+				<province>강원도영서</province>
+				<city>춘천</city>
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2012-02-06</tmEf>
+					<wf>흐리고 눈 또는 비</wf>
+					<tmn>-7</tmn>
+					<tmx>4</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>3</numEf>
+					<tmEf>2012-02-07</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-13</tmn>
+					<tmx>-3</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>4</numEf>
+					<tmEf>2012-02-08</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-16</tmn>
+					<tmx>-4</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>5</numEf>
+					<tmEf>2012-02-09</tmEf>
+					<wf>흐림</wf>
+					<tmn>-13</tmn>
+					<tmx>-2</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>6</numEf>
+					<tmEf>2012-02-10</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-14</tmn>
+					<tmx>-3</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>7</numEf>
+					<tmEf>2012-02-11</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-12</tmn>
+					<tmx>2</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+
+
+		<location>
+				<province>강원도영동</province>
+				<city>강릉</city>
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2012-02-06</tmEf>
+					<wf>구름많음</wf>
+					<tmn>2</tmn>
+					<tmx>9</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>3</numEf>
+					<tmEf>2012-02-07</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-6</tmn>
+					<tmx>-1</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>4</numEf>
+					<tmEf>2012-02-08</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-10</tmn>
+					<tmx>-1</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>5</numEf>
+					<tmEf>2012-02-09</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-7</tmn>
+					<tmx>-1</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>6</numEf>
+					<tmEf>2012-02-10</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-8</tmn>
+					<tmx>2</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>7</numEf>
+					<tmEf>2012-02-11</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-2</tmn>
+					<tmx>6</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+
+
+		<location>
+				<province>충청북도</province>
+				<city>청주</city>
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2012-02-06</tmEf>
+					<wf>흐림</wf>
+					<tmn>-1</tmn>
+					<tmx>4</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>3</numEf>
+					<tmEf>2012-02-07</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-8</tmn>
+					<tmx>-3</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>4</numEf>
+					<tmEf>2012-02-08</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-10</tmn>
+					<tmx>-2</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>5</numEf>
+					<tmEf>2012-02-09</tmEf>
+					<wf>흐림</wf>
+					<tmn>-7</tmn>
+					<tmx>1</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>6</numEf>
+					<tmEf>2012-02-10</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-9</tmn>
+					<tmx>-1</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>7</numEf>
+					<tmEf>2012-02-11</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-5</tmn>
+					<tmx>3</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+
+
+		<location>
+				<province>대전ㆍ충청남도</province>
+				<city>대전</city>
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2012-02-06</tmEf>
+					<wf>흐림</wf>
+					<tmn>-1</tmn>
+					<tmx>5</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>3</numEf>
+					<tmEf>2012-02-07</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-8</tmn>
+					<tmx>-4</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>4</numEf>
+					<tmEf>2012-02-08</tmEf>
+					<wf>구름많고 눈</wf>
+					<tmn>-9</tmn>
+					<tmx>-1</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>5</numEf>
+					<tmEf>2012-02-09</tmEf>
+					<wf>흐림</wf>
+					<tmn>-6</tmn>
+					<tmx>2</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>6</numEf>
+					<tmEf>2012-02-10</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-8</tmn>
+					<tmx>0</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>7</numEf>
+					<tmEf>2012-02-11</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-5</tmn>
+					<tmx>3</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+		<location>
+				<province>대전ㆍ충청남도</province>
+				<city>서산</city>
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2012-02-06</tmEf>
+					<wf>흐림</wf>
+					<tmn>-1</tmn>
+					<tmx>5</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>3</numEf>
+					<tmEf>2012-02-07</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-8</tmn>
+					<tmx>-5</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>4</numEf>
+					<tmEf>2012-02-08</tmEf>
+					<wf>구름많고 눈</wf>
+					<tmn>-9</tmn>
+					<tmx>-2</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>5</numEf>
+					<tmEf>2012-02-09</tmEf>
+					<wf>흐림</wf>
+					<tmn>-6</tmn>
+					<tmx>2</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>6</numEf>
+					<tmEf>2012-02-10</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-7</tmn>
+					<tmx>0</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>7</numEf>
+					<tmEf>2012-02-11</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-5</tmn>
+					<tmx>3</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+
+
+		<location>
+				<province>전라북도</province>
+				<city>전주</city>
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2012-02-06</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>1</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>3</numEf>
+					<tmEf>2012-02-07</tmEf>
+					<wf>구름많고 눈</wf>
+					<tmn>-5</tmn>
+					<tmx>-2</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>4</numEf>
+					<tmEf>2012-02-08</tmEf>
+					<wf>구름많고 눈</wf>
+					<tmn>-8</tmn>
+					<tmx>-1</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>5</numEf>
+					<tmEf>2012-02-09</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-5</tmn>
+					<tmx>2</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>6</numEf>
+					<tmEf>2012-02-10</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-7</tmn>
+					<tmx>0</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>7</numEf>
+					<tmEf>2012-02-11</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-4</tmn>
+					<tmx>4</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+
+
+		<location>
+				<province>광주ㆍ전라남도</province>
+				<city>광주</city>
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2012-02-06</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>3</tmn>
+					<tmx>6</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>3</numEf>
+					<tmEf>2012-02-07</tmEf>
+					<wf>구름많고 눈</wf>
+					<tmn>-4</tmn>
+					<tmx>-1</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>4</numEf>
+					<tmEf>2012-02-08</tmEf>
+					<wf>구름많고 눈</wf>
+					<tmn>-6</tmn>
+					<tmx>0</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>5</numEf>
+					<tmEf>2012-02-09</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-4</tmn>
+					<tmx>2</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>6</numEf>
+					<tmEf>2012-02-10</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-5</tmn>
+					<tmx>1</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>7</numEf>
+					<tmEf>2012-02-11</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-3</tmn>
+					<tmx>4</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+		<location>
+				<province>광주ㆍ전라남도</province>
+				<city>목포</city>
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2012-02-06</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>2</tmn>
+					<tmx>6</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>3</numEf>
+					<tmEf>2012-02-07</tmEf>
+					<wf>구름많고 눈</wf>
+					<tmn>-3</tmn>
+					<tmx>0</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>4</numEf>
+					<tmEf>2012-02-08</tmEf>
+					<wf>구름많고 눈</wf>
+					<tmn>-5</tmn>
+					<tmx>1</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>5</numEf>
+					<tmEf>2012-02-09</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-3</tmn>
+					<tmx>3</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>6</numEf>
+					<tmEf>2012-02-10</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-4</tmn>
+					<tmx>1</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>7</numEf>
+					<tmEf>2012-02-11</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-1</tmn>
+					<tmx>4</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+		<location>
+				<province>광주ㆍ전라남도</province>
+				<city>여수</city>
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2012-02-06</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>2</tmn>
+					<tmx>8</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>3</numEf>
+					<tmEf>2012-02-07</tmEf>
+					<wf>구름많고 눈</wf>
+					<tmn>-2</tmn>
+					<tmx>1</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>4</numEf>
+					<tmEf>2012-02-08</tmEf>
+					<wf>구름많고 눈</wf>
+					<tmn>-4</tmn>
+					<tmx>2</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>5</numEf>
+					<tmEf>2012-02-09</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-3</tmn>
+					<tmx>3</tmx>
+					<reliability>낮음</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>6</numEf>
+					<tmEf>2012-02-10</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-4</tmn>
+					<tmx>2</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>7</numEf>
+					<tmEf>2012-02-11</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-1</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+
+
+		<location>
+				<province>대구ㆍ경상북도</province>
+				<city>대구</city>
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2012-02-06</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>1</tmn>
+					<tmx>6</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>3</numEf>
+					<tmEf>2012-02-07</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-5</tmn>
+					<tmx>0</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>4</numEf>
+					<tmEf>2012-02-08</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-9</tmn>
+					<tmx>1</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>5</numEf>
+					<tmEf>2012-02-09</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-6</tmn>
+					<tmx>3</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>6</numEf>
+					<tmEf>2012-02-10</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-5</tmn>
+					<tmx>3</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>7</numEf>
+					<tmEf>2012-02-11</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-5</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+		<location>
+				<province>대구ㆍ경상북도</province>
+				<city>안동</city>
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2012-02-06</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>-4</tmn>
+					<tmx>4</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>3</numEf>
+					<tmEf>2012-02-07</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-8</tmn>
+					<tmx>-1</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>4</numEf>
+					<tmEf>2012-02-08</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-13</tmn>
+					<tmx>0</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>5</numEf>
+					<tmEf>2012-02-09</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-9</tmn>
+					<tmx>1</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>6</numEf>
+					<tmEf>2012-02-10</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-9</tmn>
+					<tmx>1</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>7</numEf>
+					<tmEf>2012-02-11</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-8</tmn>
+					<tmx>3</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+
+
+		<location>
+				<province>부산ㆍ울산ㆍ경상남도</province>
+				<city>부산</city>
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2012-02-06</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>4</tmn>
+					<tmx>8</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>3</numEf>
+					<tmEf>2012-02-07</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-3</tmn>
+					<tmx>2</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>4</numEf>
+					<tmEf>2012-02-08</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-7</tmn>
+					<tmx>1</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>5</numEf>
+					<tmEf>2012-02-09</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-6</tmn>
+					<tmx>4</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>6</numEf>
+					<tmEf>2012-02-10</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-5</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>7</numEf>
+					<tmEf>2012-02-11</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-3</tmn>
+					<tmx>6</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+		<location>
+				<province>부산ㆍ울산ㆍ경상남도</province>
+				<city>울산</city>
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2012-02-06</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>3</tmn>
+					<tmx>7</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>3</numEf>
+					<tmEf>2012-02-07</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-5</tmn>
+					<tmx>2</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>4</numEf>
+					<tmEf>2012-02-08</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-8</tmn>
+					<tmx>0</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>5</numEf>
+					<tmEf>2012-02-09</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-7</tmn>
+					<tmx>3</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>6</numEf>
+					<tmEf>2012-02-10</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-6</tmn>
+					<tmx>4</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>7</numEf>
+					<tmEf>2012-02-11</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-5</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+		<location>
+				<province>부산ㆍ울산ㆍ경상남도</province>
+				<city>창원</city>
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2012-02-06</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>3</tmn>
+					<tmx>7</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>3</numEf>
+					<tmEf>2012-02-07</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-3</tmn>
+					<tmx>2</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>4</numEf>
+					<tmEf>2012-02-08</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-7</tmn>
+					<tmx>1</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>5</numEf>
+					<tmEf>2012-02-09</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-7</tmn>
+					<tmx>4</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>6</numEf>
+					<tmEf>2012-02-10</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-5</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>7</numEf>
+					<tmEf>2012-02-11</tmEf>
+					<wf>구름조금</wf>
+					<tmn>-4</tmn>
+					<tmx>7</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+
+
+		<location>
+				<province>제주도</province>
+				<city>제주</city>
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2012-02-06</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>8</tmn>
+					<tmx>12</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>3</numEf>
+					<tmEf>2012-02-07</tmEf>
+					<wf>구름많고 눈</wf>
+					<tmn>2</tmn>
+					<tmx>3</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>4</numEf>
+					<tmEf>2012-02-08</tmEf>
+					<wf>구름많고 눈</wf>
+					<tmn>0</tmn>
+					<tmx>3</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>5</numEf>
+					<tmEf>2012-02-09</tmEf>
+					<wf>구름많음</wf>
+					<tmn>1</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>6</numEf>
+					<tmEf>2012-02-10</tmEf>
+					<wf>구름많음</wf>
+					<tmn>2</tmn>
+					<tmx>5</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>7</numEf>
+					<tmEf>2012-02-11</tmEf>
+					<wf>구름많음</wf>
+					<tmn>2</tmn>
+					<tmx>6</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+		<location>
+				<province>제주도</province>
+				<city>서귀포</city>
+				
+				<data>
+					<numEf>2</numEf>
+					<tmEf>2012-02-06</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>10</tmn>
+					<tmx>14</tmx>
+					<reliability>높음</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>3</numEf>
+					<tmEf>2012-02-07</tmEf>
+					<wf>구름많고 눈</wf>
+					<tmn>3</tmn>
+					<tmx>4</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>4</numEf>
+					<tmEf>2012-02-08</tmEf>
+					<wf>구름많고 눈</wf>
+					<tmn>1</tmn>
+					<tmx>4</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>5</numEf>
+					<tmEf>2012-02-09</tmEf>
+					<wf>구름많음</wf>
+					<tmn>3</tmn>
+					<tmx>6</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>6</numEf>
+					<tmEf>2012-02-10</tmEf>
+					<wf>구름많음</wf>
+					<tmn>2</tmn>
+					<tmx>6</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+				
+				<data>
+					<numEf>7</numEf>
+					<tmEf>2012-02-11</tmEf>
+					<wf>구름많음</wf>
+					<tmn>2</tmn>
+					<tmx>8</tmx>
+					<reliability>보통</reliability>
+				</data>
+
+
+		</location>
+
+
+	
+
+	</body>
+</description>
+</item>
+</channel>
+</rss>
