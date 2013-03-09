@@ -28,18 +28,9 @@ connection.connect()
 ```
 자세한 내용은 공식 모듈 페이지 [node-mysql](https://github.com/felixge/node-mysql)를 참고하세요.
 
-#오탈자 - 조금씩 옮기겠습니다. 흐흨
+#오탈자
 죄송합니다. 'ㅂ' ... 오타가 있겠지... 15명이 검토를 했어도 있을 것입니다.. ;ㅁ; ...
 
-##Module Change
-### connect 모듈
-connect 모듈 버전이 올라가면서 책의 예제 20개 정도가 작동하지 않습니다. 'ㅂ' ...
-다음과 같이 connect 모듈을 설치할 때에 변경하시면 됩니다. ㅇㅂㅇ
-```
-$ npm install connect@1.8.5
-```
- 
-##책 내부오탈자
 ###Page 64 + Page 65 - opensrc님 발견!
 코드 4-14 - CONPLETE를 COMPLETE로
 코드 4-15 - CONPLETE를 COMPLETE로 
@@ -65,7 +56,8 @@ if(request.cookies.auth == true)
 부분을
 ```javascript
 if(request.cookies.auth == 'true')
-```로 해주세요 ㅠㅁㅜ
+```
+로 해주세요 ㅠㅁㅜ
 
 ###Page 155
 원래 이 코드를
@@ -185,15 +177,14 @@ Node.js로 왜 전자 상거래 사이트를 맹글어.... 다른 프레임워�
 
 ###Page 245
 코드 내부에서 jQuery를 사용했는데 jQuery 파일 추가를 안 했군요 'ㅁ' ...
- 
+```html
 <script src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
+```
 이 코드를 추가해주세요 ㅎㅎ ;ㅁ; 
 
 ###Page 294 - 담요님 발견!
-담요님의 수정 사항입니다. 'ㅂ'
 "실시간 위치 추적" 예제를 보시면, 서버에서 클라이언트로 date를 전달하지 않습니다. ;ㅁ;
 latitude, longitude 속성과 더불어 date 속성도 전달해주세요! ㅎㅎ
  
 ###Page 334 - opensrc님 발견!
-opensrc님의 수정 사항입니다. 'ㅂ'
 14.8 정리 및 남은 과제의 3번 "canvas 태그에 그린 그림 저장합니다."를 "canvas 태그에 그린 그림을 저장합니다."로 바꿉니다.
